@@ -35,7 +35,6 @@ Module 9 Challenge (PostgreSQL) - Wassim Deen
 # Final Repository Structure
 ```
 ├── README.md
-├── .gitignore
 └── EmployeeSQL
     ├── EmployeeSQL_Final.sql
     └── data
