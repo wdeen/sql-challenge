@@ -29,6 +29,7 @@ Module 9 Challenge (PostgreSQL) - Wassim Deen
 
 # Notes
 1. `EmployeeSQL_Final.sql` contains both the SQL Table Schemata and Queries
+2. ERD Sketch (`EmployeeSQL_ERD.png`) can be found in 'data' folder
 
 
 # Final Repository Structure
