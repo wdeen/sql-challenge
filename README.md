@@ -11,10 +11,10 @@ Module 9 Challenge (PostgreSQL) - Wassim Deen
         - All required columns are defined
         - Columns are set to the correct data type
         - Primary Keys set for the table
-        - Correctly references related tables
+        - Related tables are correctly referenced
         - Tables are correctly related using Foreign Keys
-        - Correctly uses NOT NULL condition on necessary columns
-        - Accuratel
+        - NOT NULL condition on necessary columns is used correctly
+        - Define value length for columns accurately
 
  - Data Analysis
     1. Perform the following SQL queries using the SQL tables:
